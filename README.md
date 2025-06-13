@@ -96,7 +96,7 @@ Netflix_Clone/
 
 ## 🔗 Live Demo
 
-🚧 Deployment in progress... *(Link will be updated soon)*
+🚧 Deployed link:https://flourishing-cat-b7fda6.netlify.app/
 
 ---
 
